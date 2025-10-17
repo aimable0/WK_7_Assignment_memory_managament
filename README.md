@@ -27,6 +27,3 @@ The program:
 ```bash
 gcc dynamic_emails.c -o dynamic_emails
 ./dynamic_emails
-
-License
-This project is open source and free to use for learning purposes.
