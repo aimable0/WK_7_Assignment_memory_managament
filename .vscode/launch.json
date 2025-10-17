@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/aimable/Documents/WK_7_Assignment_memory_managament",
+      "program": "/Users/aimable/Documents/WK_7_Assignment_memory_managament/build/Debug/outDebug"
+    }
+  ]
+}
