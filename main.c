@@ -23,7 +23,7 @@ int main(void)
 
     // shrinking email list to just 6 emails..
     shrink_email_addresses();
-    printf("\n Renewed list of emails after resizing:\n");
+    printf("\nRenewed list of emails after shrinking list:\n");
     display_emails(RESIZE_LIMIT);
     free_memory(0, RESIZE_LIMIT);
 
